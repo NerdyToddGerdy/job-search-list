@@ -5,6 +5,7 @@
 ## Job Search websites
 1. www.dice.com
 2. www.glassdoor.com
+3. www.hired.com
 
 
 ## Freelance jobs
